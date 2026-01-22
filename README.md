@@ -43,7 +43,7 @@ Backend Developer with **3.5+ years of experience** building scalable, secure, a
 ## 📫 Connect With Me
 - 💼 LinkedIn: https://www.linkedin.com/in/sushil45/
 - 💻 GitHub: https://github.com/Sushil-45
-- 📧 Email: sushilsky912@example.com
+- 📧 Email: sushilsky912@gmail.com
 
 ---
 
